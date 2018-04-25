@@ -1,0 +1,50 @@
+@import url('http://fonts.googleapis.com/css?family=Open+Sans:400,700|Roboto+Mono');
+
+body {
+  font-size: 100%;
+}
+h1 {
+  font-family: 'Open sans', sans-serif;
+  font-size: 1.563em;
+  margin: 0.3em 0.5em;
+  font-weight: bold;
+}
+h2 {
+  font-family: 'Open sans', sans-serif;
+  font-size: 1.563em;
+  color: red;
+  font-weight: bold;
+}
+h4 {
+  font-family: 'Open sans', sans-serif;
+  color: blue;
+  font-size : 1em;
+  font-weight: bold;
+  margin-top: 25px;
+}
+p, ol {
+  font-family: 'Roboto mono', monospace;
+}
+a {
+  color: black;
+  text-decoration: none;
+}
+img {
+  margin: 25px 0px;
+}
+li{
+  margin-bottom: 0.2em
+}
+#menu{
+  background-color: mistyrose;
+  padding: 5px;
+}
+#box{
+  border: 5px solid black;
+  background-color: #ffedeb;
+  margin: 10px;
+}
+#comment{
+  background-color: mistyrose;
+  padding: 5px;
+}
