@@ -4,26 +4,26 @@ body {
   font-size: 100%;
 }
 h1 {
-  font-family: 'Open sans', sans-serif;
+  font-family: 'Open sans', sans-serif !important;
   font-size: 1.563em;
   margin: 0.3em 0.5em;
   font-weight: bold;
 }
 h2 {
-  font-family: 'Open sans', sans-serif;
+  font-family: 'Open sans', sans-serif !important;
   font-size: 1.563em;
   color: red;
   font-weight: bold;
 }
 h4 {
-  font-family: 'Open sans', sans-serif;
+  font-family: 'Open sans', sans-serif !important;
   color: blue;
   font-size : 1em;
   font-weight: bold;
   margin-top: 25px;
 }
 p, ol {
-  font-family: 'Roboto mono', monospace;
+  font-family: 'Roboto mono', monospace !important;
 }
 a {
   color: black;
